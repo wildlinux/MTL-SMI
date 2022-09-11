@@ -1,0 +1,28 @@
+- 论文
+    - STL-GT
+        - bert 
+        - 先拼接再向量化
+        - 文本处理
+- 数据
+    - Weibo
+        - split
+        - preprocess
+        - filenames
+    - PhemeData
+        - split
+        - process
+        - cached 
+        - filenames
+        - 小图结构包含哪些内容
+- pretraining
+    - 需要跑吗？还是不需要再动了。
+- training
+    - data load
+    - share split with baselines
+- overall steps
+    -    
+- output logs
+- userful cfgs
+- end2end
+
+
